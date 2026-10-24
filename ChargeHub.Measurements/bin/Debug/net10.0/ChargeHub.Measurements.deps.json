@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ChargeHub.Measurements/1.0.0": {
+        "runtime": {
+          "ChargeHub.Measurements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChargeHub.Measurements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

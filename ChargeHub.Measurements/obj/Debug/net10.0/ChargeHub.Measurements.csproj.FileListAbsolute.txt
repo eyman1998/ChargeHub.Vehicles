@@ -1,0 +1,14 @@
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.AssemblyInfoInputs.cache
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.AssemblyInfo.cs
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.csproj.CoreCompileInputs.cache
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\bin\Debug\net10.0\ChargeHub.Measurements.exe
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\bin\Debug\net10.0\ChargeHub.Measurements.deps.json
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\bin\Debug\net10.0\ChargeHub.Measurements.runtimeconfig.json
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\bin\Debug\net10.0\ChargeHub.Measurements.dll
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\bin\Debug\net10.0\ChargeHub.Measurements.pdb
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.dll
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\refint\ChargeHub.Measurements.dll
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.pdb
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ChargeHub.Measurements.genruntimeconfig.cache
+C:\Users\eyman\OneDrive\Skrivbord\Programmering 2\Lektion 2\ChargeHub.Measurements\obj\Debug\net10.0\ref\ChargeHub.Measurements.dll
